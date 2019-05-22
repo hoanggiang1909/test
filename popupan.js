@@ -1,5 +1,5 @@
 
-	var url_popup = 'https://bdsvinhphat.blogspot.com/';
+	var url_popup = 'https://vinhphatland.vn/';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
